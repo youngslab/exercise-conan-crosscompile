@@ -1,0 +1,6 @@
+[settings]
+os=Linux
+arch=armv8
+compiler=gcc
+compiler.libcxx=libstdc++
+compiler.version=8
